@@ -3,7 +3,7 @@
 A small one-page demo showing scroll-based animations and micro-interactions.
 Built with semantic HTML, modern CSS (Flexbox/Grid) and vanilla JavaScript + GSAP.
 
-**Live demo:** [add your GitHub Pages link here]
+**Live demo:** [[https://github.com/trippyjns1]]
 
 ## Files
 - `index.html` – page structure and content. Loads GSAP and ScrollTrigger from a CDN.
